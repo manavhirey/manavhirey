@@ -9,3 +9,6 @@ These days I'm focused on:
 * AWS, Azure, Docker, Terraform
 * System design and distributed systems
 * DevOps automation and CI/CD pipelines
+
+#### Fun Facts:
+* Based in Seattle but originally from Mumbai
