@@ -10,5 +10,8 @@ These days I'm focused on:
 * System design and distributed systems
 * DevOps automation and CI/CD pipelines
 
-#### Fun Facts:
+***
+Fun Facts:
 * Based in Seattle but originally from Mumbai
+* Avid PC builder and hardware enthusiast
+* I do 3D modeling in Blender
